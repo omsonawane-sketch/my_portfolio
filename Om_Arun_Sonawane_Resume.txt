@@ -1,0 +1,51 @@
+Om Arun Sonawane
+Software Developer | UI/UX Designer | Student | Freelancer
+
+Contact
+Email: omsonsawane947@gmail.com
+Phone: +91 9604571486
+LinkedIn: linkedin.com/in/om-sonawane-a5a665417
+GitHub: github.com/omsonawane-sketch
+
+Profile
+I build modern web applications, Android apps, and intuitive user experiences that solve real-world problems. My work spans full-stack development with React, Python, Java, Node.js, MySQL, and UI/UX design in Figma.
+
+Skills
+Languages: C, C++, C#, Python, Java, Kotlin, JavaScript, HTML5, CSS3
+Frontend: React, Web Application Development, Website Development, Responsive Design, UI Animation, Tailwind CSS, Bootstrap
+Backend: Node.js, REST APIs, MySQL, Firebase
+Mobile Development: Android, Android App Development, Java Android, Kotlin, XML Layouts
+UI/UX: Figma, Wireframing, Prototyping, User Research
+Tools: Git, GitHub, VS Code, Postman
+
+Featured Projects
+Aid Link
+Donation platform connecting donors with people in need.
+Tech stack: React, Node.js, Python, MySQL
+Features: Secure authentication, donation management, responsive design, database integration, user-friendly interface.
+
+Geo-Fenced Attendance System
+1st Prize Winner - Hackathon
+Smart attendance management system using geo-fencing and QR code technology.
+Tech stack: React, Node.js, Python, MySQL
+Features: Geo-fencing, QR code attendance, admin dashboard, attendance reports, secure authentication.
+
+Best Move Chess Club Website
+Responsive website for a chess club to showcase events, tournaments, membership information, and activities.
+Tech stack: HTML, CSS
+Features: Responsive layout, event showcase, membership information, clean UI, fast loading.
+
+Experience
+Freelance Developer
+10+ projects completed across full-stack web applications, responsive websites, Android applications, UI/UX design, database design, and REST API integration.
+
+Education
+Bachelor's Student
+Software Development | UI/UX | Problem Solving | Full-Stack Development
+
+Achievements
+1st Prize Winner - Hackathon
+Successfully Completed 10+ Development Projects
+Experience in Android Development
+Developed Responsive Web Applications
+UI/UX Designer using Figma
